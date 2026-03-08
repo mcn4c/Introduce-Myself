@@ -8,10 +8,10 @@
 
 
 
-<img width="297" height="195" alt="image" src="./img/cake.jpg" />
+<img width="297" height="195" alt="cake" src="./img/cake.jpg" />
 
 
-![image](./img/cake.jpg)
+![cake](./img/cake.jpg)
 
 * This website is a static HTML website using semantic tags and minimal CSS. 
 * It is currently hosted on Github Pages.
